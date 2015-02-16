@@ -1,0 +1,9 @@
+{
+"name": "Express-session-node",
+"version": "0.0.1",
+"main": "server.js",
+"dependencies": {
+									"express": "^4.8.7",
+									"express-session": "^1.7.6"
+								}
+}
